@@ -85,10 +85,7 @@ CLOUDINARY_API_SECRET=tu_api_secret
 ```
 
 
-
-
-
-## API Endpoints
+## 🔗 API Endpoints
 
 #### Obtener Mascotas Perdidas
 
