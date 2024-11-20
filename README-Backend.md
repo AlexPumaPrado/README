@@ -31,7 +31,7 @@ Lograr aumentar el índice de adopción de mascotas, y la reducción de animales
 
 #### Bash
 
-```http
+```
   git clone https://github.com/tu-usuario/MIR-conectando-huellas-backend.git
 
   cd MIR-conectando-huellas-backend
@@ -43,26 +43,26 @@ Lograr aumentar el índice de adopción de mascotas, y la reducción de animales
 
 
 ## 📁 Estructura del Proyecto
-```http
+```
 MIR-conectando-huellas-backend/
 ├── prisma/
    └── schema.prisma/
 ├── src/
-   ├── config/         # Configuraciones (database, cloudinary, etc.)
-   ├── controllers/    # Controladores de rutas
-   ├── middleware/     # Middlewares personalizados
-   ├── models/         # Modelos de datos
-   ├── routes/         # Definición de rutas
-   ├── services/       # Lógica de negocio
-   ├── utils/          # Utilidades y helpers
-   └── app.ts          # Punto de entrada de la aplicación
+   ├── config/         
+   ├── controllers/    
+   ├── middleware/     
+   ├── models/         
+   ├── routes/         
+   ├── services/       
+   ├── utils/          
+   └── app.ts          
 ```
 
 ## ⚙️ Configuración
 Variables de Entorno
 
 #### .env
-```http
+```
 # Server
 PORT=9090
 NODE_ENV=development
@@ -92,7 +92,7 @@ CLOUDINARY_API_SECRET=tu_api_secret
 
 #### Obtener Mascotas Perdidas
 
-```http
+```
   GET /api/pets/lost    
 ```
 
@@ -103,7 +103,7 @@ CLOUDINARY_API_SECRET=tu_api_secret
 
 #### Registrar usuario
 
-```http
+```
   POST /api/user/register
 ```
 
@@ -117,7 +117,7 @@ CLOUDINARY_API_SECRET=tu_api_secret
 
 #### Actualizar Estado de Mascota
 
-```http
+```
   PATCH /api/pets/${id}/status
 ```
 
