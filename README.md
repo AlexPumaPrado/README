@@ -1,6 +1,6 @@
 
 ![logo-color](https://github.com/user-attachments/assets/4bfc5671-9f28-4340-a1fc-7f97d110e2f9)
-# Conectando Huellas
+# Aplicación web para adopción y busqueda de mascotas
 
 Es una aplicación sin fines de lucro que busca conectar a las mascotas en adopción con posibles dueños interesados, y también permite que los dueños que han extraviado sus mascotas puedan publicar un anuncio para poder encontrar a su respectiva mascota extraviada.
 
@@ -99,7 +99,7 @@ VITE_APP_NAME="MIR Conectando Huellas"
 
 #### Bash
 
-```http
+```
   git clone https://github.com/tu-usuario/MIR-conectando-huellas.git
 
   cd MIR-conectando-huellas
