@@ -197,6 +197,12 @@ VITE_APP_NAME="MIR Conectando Huellas"
   <img src="https://github.com/user-attachments/assets/66a601fa-24d9-4bdc-9576-8faceb16849f" alt="Buscar mascotas" width="200"/>
 </p>
 
+## 📝 Licencia
+Este proyecto está bajo la Licencia MIT - ver el archivo LICENSE.md para detalles 
+
+## 🙏 Agradecimientos
+* A todos los participantes del proyecto.
+* Profesores de Make It Real
 
 ## 🔗 Autores
 #### Ana Albirena
