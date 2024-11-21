@@ -129,6 +129,12 @@ Las imágenes se suben a Cloudinary. Formatos soportados:
 * PNG
 * WebP
 
+## 📊 Diagrama de Base de Datos
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/31ef805b-ac0b-4053-9b1f-f362d4841c35" alt="Visualizar mascotas registradas" width="600"/>
+</p>
+
 
 ## 📝 Licencia
 Este proyecto está bajo la Licencia MIT - ver el archivo LICENSE.md para detalles 
