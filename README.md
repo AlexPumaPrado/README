@@ -197,6 +197,7 @@ VITE_APP_NAME="MIR Conectando Huellas"
   <img src="https://github.com/user-attachments/assets/66a601fa-24d9-4bdc-9576-8faceb16849f" alt="Buscar mascotas" width="200"/>
 </p>
 
+
 ## 🔗 Autores
 #### Ana Albirena
 [![github](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/annalbirena)
