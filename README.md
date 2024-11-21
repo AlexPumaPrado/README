@@ -156,25 +156,46 @@ VITE_APP_NAME="MIR Conectando Huellas"
 * Historial de publicaciones
 
 
-## Mapa de Navegación (Roadmap)
+## Mapa de Navegación
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f4333e56-33a3-4eeb-8fde-3638b5a25837" alt="Mapa de Navegación" width="600"/>
+</p>
 
-![image](https://github.com/user-attachments/assets/f4333e56-33a3-4eeb-8fde-3638b5a25837)
+---
 
 
 ## Flujo de Navegación
-
 #### Registrar mascota
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6be51ee1-6571-4327-bfe0-4d7f5ad5c1e3" alt="Registrar mascota" width="600"/>
+</p>
 
-![image](https://github.com/user-attachments/assets/bdfcf026-9b70-4256-8f8e-78e03404e937)
 
 #### Buscar mascotas
-
-![image](https://github.com/user-attachments/assets/6be51ee1-6571-4327-bfe0-4d7f5ad5c1e3)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6be51ee1-6571-4327-bfe0-4d7f5ad5c1e3" alt="Buscar mascotas" width="600"/>
+</p>
 
 #### Visualizar mascotas registradas por usuario
 
-![image](https://github.com/user-attachments/assets/9837157c-5ed1-47a1-82f1-c10d66b5e7f3)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9837157c-5ed1-47a1-82f1-c10d66b5e7f3" alt="Visualizar mascotas registradas" width="600"/>
+</p>
 
+---
+## 📸 Screenshots
+
+#### Página de Inicio
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/13450861-dc62-433b-b681-7f15ab493fc2" alt="Página inicio" width="600"/>
+</p>
+
+#### Página de Inicio - Móvil
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/66a601fa-24d9-4bdc-9576-8faceb16849f" alt="Buscar mascotas" width="200"/>
+</p>
 
 ## 🔗 Autores
 #### Ana Albirena
