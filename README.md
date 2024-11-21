@@ -156,6 +156,25 @@ VITE_APP_NAME="MIR Conectando Huellas"
 * Historial de publicaciones
 
 
+## Mapa de Navegación (Roadmap)
+
+![image](https://github.com/user-attachments/assets/f4333e56-33a3-4eeb-8fde-3638b5a25837)
+
+
+## Flujo de Navegación
+
+#### Registrar mascota
+
+![image](https://github.com/user-attachments/assets/bdfcf026-9b70-4256-8f8e-78e03404e937)
+
+#### Buscar mascotas
+
+![image](https://github.com/user-attachments/assets/6be51ee1-6571-4327-bfe0-4d7f5ad5c1e3)
+
+#### Visualizar mascotas registradas por usuario
+
+![image](https://github.com/user-attachments/assets/9837157c-5ed1-47a1-82f1-c10d66b5e7f3)
+
 
 ## 🔗 Autores
 #### Ana Albirena
@@ -169,14 +188,4 @@ VITE_APP_NAME="MIR Conectando Huellas"
 [![portfolio](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlexPumaPrado)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexander-puma-prado/)
 
-## Roadmap
-
-- Additional browser support
-
-- Add more integrations
-
-
-## Screenshots
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
