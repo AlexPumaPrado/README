@@ -135,9 +135,15 @@ Las imágenes se suben a Cloudinary. Formatos soportados:
   <img src="https://github.com/user-attachments/assets/31ef805b-ac0b-4053-9b1f-f362d4841c35" alt="Visualizar mascotas registradas" width="600"/>
 </p>
 
+## ⚡ Despliegue 
+
+- **Aplicación en Vercel**: [mir-conectando-huellas](https://mir-conectando-huellas.vercel.app/)
+- **Repositorio Frontend**: [MIR-conectando-huellas-frontend](https://github.com/annalbirena/MIR-conectando-huellas.git)
+- **Despliegue Backend**: [API Docs](https://mir-conectando-huellas-backend.onrender.com/api/docs)
+
 
 ## 📝 Licencia
-Este proyecto está bajo la Licencia MIT - ver el archivo LICENSE.md para detalles 
+Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE.md](LICENSE.md) para detalles 
 
 ## 🙏 Agradecimientos
 * A todos los participantes del proyecto.
