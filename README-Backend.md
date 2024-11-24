@@ -1,5 +1,5 @@
 ![logo-color](https://github.com/user-attachments/assets/4bfc5671-9f28-4340-a1fc-7f97d110e2f9)
-# Aplicación web para adopción y busqueda de mascotas-BACKEND
+# Aplicación web para adopción y busqueda de mascotas
 
 Es una aplicación sin fines de lucro que busca conectar a las mascotas en adopción con posibles dueños interesados, y también permite que los dueños que han extraviado sus mascotas puedan publicar un anuncio para poder encontrar a su respectiva mascota extraviada.
 
@@ -19,6 +19,8 @@ Lograr aumentar el índice de adopción de mascotas, y la reducción de animales
 * ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 * ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
 * ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white)
+* ![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)
+  
 
 ## 📋 Requisitos Previos
 * ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
