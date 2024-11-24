@@ -23,10 +23,12 @@ Lograr aumentar el índice de adopción de mascotas, y la reducción de animales
 
 ## 🚀 Tecnologías
 * ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+* ![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)
 * ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 * ![Mantine UI](https://img.shields.io/badge/Mantine-000000?style=for-the-badge&logo=mantine&logoColor=white)
 * ![MapLibre](https://img.shields.io/badge/MapLibre-000000?style=for-the-badge&logo=maplibre&logoColor=white) 
 * ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
+* ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ## 📋 Requisitos Previos
 * ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -158,9 +160,8 @@ VITE_APP_NAME="MIR Conectando Huellas"
 
 ## Mapa de Navegación
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f4333e56-33a3-4eeb-8fde-3638b5a25837" alt="Mapa de Navegación" width="600"/>
+  <img src="https://github.com/user-attachments/assets/7aec51e6-1c22-4327-8a56-458a1eb16562" alt="Mapa de Navegación" width="600"/>
 </p>
-
 ---
 
 
@@ -196,6 +197,12 @@ VITE_APP_NAME="MIR Conectando Huellas"
 <p align="center">
   <img src="https://github.com/user-attachments/assets/66a601fa-24d9-4bdc-9576-8faceb16849f" alt="Buscar mascotas" width="200"/>
 </p>
+
+## ⚡ Despliegue 
+
+- **Aplicación en Vercel**: [mir-conectando-huellas](https://mir-conectando-huellas.vercel.app/)
+- **Repositorio Backend**: [MIR-conectando-huellas-backend](https://github.com/annalbirena/MIR-conectando-huellas-backend.git)
+- **Despliegue Backend**: [API Docs](https://mir-conectando-huellas-backend.onrender.com/api/docs)
 
 ## 📝 Licencia
 Este proyecto está bajo la Licencia MIT - ver el archivo LICENSE.md para detalles 
